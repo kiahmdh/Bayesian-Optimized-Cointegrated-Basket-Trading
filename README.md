@@ -68,16 +68,13 @@ The project combines **Johansen cointegration**, **Bayesian hyperparameter optim
 
 ## Project Structure
 
-- `main.py` – main script containing:
+- `Bayesian_Optimized_Cointegrated_Basket_Trading.ipynb` – main script containing:
   - data download and split
   - cointegration estimation
   - strategy and backtest logic
   - Bayesian optimization
   - plots and diagnostics
-- `requirements.txt` – Python dependencies (yfinance, bayesian-optimization, statsmodels, numpy, pandas, matplotlib).
 - `README.md` – this document.
-- (optional) `notebooks/` – Jupyter or Colab notebooks for experiments.
-- (optional) `figures/` – saved plots (spread, equity, forecast, etc.).
 
 * * *
 
